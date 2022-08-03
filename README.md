@@ -8,7 +8,7 @@
 
 This article discusses everything you need to know about news scraping, including the benefits and use cases of news scraping as well as how you can use Python to create an article scraper.
 
-For a detailed explanation, see our [blog post](https://oxylabs.io/blog/news-scraping).
+For a detailed explanation, see our [blog post](https://oxy.yt/YrD0).
 
 
 
@@ -68,4 +68,4 @@ for headline in headlines:
 
 
 
-If you wish to find out more about News Scraping, see our [blog post](https://oxylabs.io/blog/news-scraping).
+If you wish to find out more about News Scraping, see our [blog post](https://oxy.yt/YrD0).
